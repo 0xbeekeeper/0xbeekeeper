@@ -7,7 +7,7 @@
 
 Welcome to my Github page! I am Allen and I am currently building 🛡️🛡️ GoPlus Security Network 🛡️🛡️!  
 
-<img align="right" alt="img" src="https://github.com/0xbeekeeper/0xbeekeeper/blob/main/cover.jpg" width="50%" height="auto" />
+<img align="right" alt="img" src="https://github.com/0xbeekeeper/0xbeekeeper/blob/main/cover.png" width="50%" height="auto" />
 
 
 #### 🌱 Things I am currently working on: 
