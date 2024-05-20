@@ -8,27 +8,26 @@
 Welcome to my Github page! I am Allen and I am currently building 🛡️🛡️ GoPlus Security Network 🛡️🛡️!  
 
 
-
 #### 🌱 Things I am currently working on: 
-- GoPlus Security Network 
-- GoPlus SecScan Engine
-- GoPlus Open Research
+- [GoPlus Security Network](https://gopluslabs.io)
+- [GoPlus SecScan Engine](https://github.com/goplus-labs/go-scan)
+- [GoPlus Open Research](https://inky-punch-9d2.notion.site/GoPlus-Open-Research-8caa714861214d22bd172f62fac076b2?pvs=4)
 
 
 #### :computer: Programming languages and tools: 
 <p>
 	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=0xbeekeeper&show_icons=true&hide_border=true" />
 
-<code><img width="10%" src="https://worldvectorlogo.com/download/solidity.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-<code><img width="8%" src="https://worldvectorlogo.com/download/typescript.svg"></code>
-<code><img width="8%" src="https://worldvectorlogo.com/download/go-8.svg"></code>
+<code><img width="8%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
+<code><img width="8%" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg"></code>
 
 <br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
-<code><img width="10%" src="https://worldvectorlogo.com/download/react-2.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
 <br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-ar21.svg"></code>
